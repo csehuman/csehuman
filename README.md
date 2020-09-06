@@ -1,4 +1,14 @@
-### Hi there 👋
+### Programming Newbie 😎
+* CSE student @ [Seoul National University](https://cse.snu.ac.kr/)
+* Back-end newbie @ [SNULife](https://snulife.com/)
+
+### Personal Interest
+* Language: Python, Javascript, Swift, Go, Elixir
+* Frameworks: 
+  * Back-end: Django, Node.js, Deno, Phoenix
+  * Front-end: React, Vue, Svelte
+* etc. (App & DevOps)
+
 
 <!--
 **csehuman/csehuman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
