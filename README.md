@@ -1,4 +1,4 @@
-## Paul's Profile
+## Profile
 
 ### Programming Newbie 😎
 * CSE student @ [Seoul National University](https://cse.snu.ac.kr/)
