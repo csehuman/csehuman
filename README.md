@@ -1,4 +1,4 @@
-##Paul's Profile
+## Paul's Profile
 ---
 
 ### Programming Newbie 😎
