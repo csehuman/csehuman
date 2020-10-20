@@ -5,10 +5,10 @@
 * Back-end newbie @ [SNULife](https://snulife.com/)
 
 ### Personal Interest
-* Language: Python, Javascript, Swift, Go, Elixir
+* Language: C, Python, JavaScript & TypeScript
 * Frameworks: 
-  * Back-end: Django, Node.js, Deno, Phoenix
-  * Front-end: React, Vue, Svelte
+  * Back-end: Django, Node.js (Express)
+  * Front-end: Vue.js, React.js, Angular.js
 * etc. (App & DevOps)
 
 
