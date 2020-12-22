@@ -5,11 +5,11 @@
 * Back-end newbie @ [SNULife](https://snulife.com/)
 
 ### Personal Interest
-* Language: Python, JavaScript, TypeScript, C
+* Language: Python, Ruby, JavaScript
 * Frameworks: 
-  * Back-end: Django, Node.js (Express)
-  * Front-end: Vue.js, React.js, Angular.js
-* etc. (App & DevOps)
+  * Back-end: Django, Flask, Ruby on Rails, Express
+  * Front-end: React.js, Vue.js
+* etc.
 
 
 <!--
