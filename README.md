@@ -1,8 +1,8 @@
 ## Profile
 
 ### Programming Newbie 😎
-* CSE student @ [Seoul National University](https://cse.snu.ac.kr/)
-* Back-end newbie @ [SNULife](https://snulife.com/)
+* CSE Student @ [Seoul National University](https://cse.snu.ac.kr/)
+* Scrum Master @ [SNULife](https://snulife.com/)
 
 ### Personal Interest
 * Language: Python, Ruby, JavaScript
