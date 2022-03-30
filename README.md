@@ -8,7 +8,7 @@
 * Language: Python, Swift
 * Frameworks: 
   * Back-end: Django
-  * App: Swift
+  * App: iOS (Swift)
 * etc.
 
 
