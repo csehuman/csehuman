@@ -5,10 +5,10 @@
 * Scrum Master @ [SNULife](https://snulife.com/)
 
 ### Personal Interest
-* Language: Python, Ruby, JavaScript, Elixir
+* Language: Python, Swift
 * Frameworks: 
-  * Back-end: Django, Phoenix, Ruby on Rails, Express
-  * Front-end: React.js, Vue.js
+  * Back-end: Django
+  * App: Swift
 * etc.
 
 
