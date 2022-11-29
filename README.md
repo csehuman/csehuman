@@ -5,10 +5,10 @@
 * Scrum Master @ [SNULife](https://snulife.com/)
 
 ### Personal Interest
-* Language: Python, Swift
+* Language: Swift, Python
 * Frameworks: 
-  * Back-end: Django
-  * App: iOS (Swift)
+  * iOS: UIKit/Storyboard, SwiftUI
+  * Backend: Django MTV
 * etc.
 
 
