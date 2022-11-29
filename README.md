@@ -7,7 +7,7 @@
 ### Personal Interest
 * Language: Swift, Python
 * Frameworks: 
-  * iOS: UIKit/Storyboard, SwiftUI
+  * iOS: UIKit / Storyboard, SwiftUI
   * Backend: Django MTV
 * etc.
 
