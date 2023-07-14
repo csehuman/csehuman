@@ -2,7 +2,7 @@
 
 ### Programming Newbie 😎
 * CSE Student @ [Seoul National University](https://cse.snu.ac.kr/)
-* Scrum Master @ [SNULife](https://snulife.com/)
+* Strategy & Marketing Manager @ [SNULife](https://snulife.com/)
 
 ### Personal Interest
 * Language: Swift, Python
