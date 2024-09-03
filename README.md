@@ -1,7 +1,7 @@
 ## Profile
 
 <!-- ### Programming Newbie 😎 -->
-## Occupation
+### Occupation
 * CSE Student @ [Seoul National University](https://cse.snu.ac.kr/)
 * COO @[arti.to](https://arti.to/)
 * Strategy & Marketing Manager @ [SNULife](https://snulife.com/)
