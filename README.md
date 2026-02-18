@@ -1,7 +1,5 @@
 # Profile
 
----
-
 ## Occupation
 
 - Product Manager & Engineer @ [Hypernova](https://www.hypernovacorp.com/) (Google for Startups Selected)
