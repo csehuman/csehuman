@@ -2,7 +2,7 @@
 
 ## Occupation
 
-- Product Manager & Engineer @ [Hypernova](https://www.hypernovacorp.com/) (Google for Startups Selected)
+- Product Manager & Engineer @ [Hypernova](https://www.hypernovacorp.com/)
 - Previously: Research Analyst / DX Engineer @ [Mashup Ventures](https://www.mashupventures.co/)
 - Previously: Co-founder & COO @ [arti.to](https://www.arti.to)
 - B.S. Computer Science & Engineering / B.B.A. Entrepreneurship (Joint Major), Seoul National University
